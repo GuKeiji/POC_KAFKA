@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B78CDA1-1E68-4C6E-9C88-4A739ADE18E6}|KafkaDotNet.API\\KafkaDotNet.API.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.api\\datainferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B78CDA1-1E68-4C6E-9C88-4A739ADE18E6}|KafkaDotNet.API\\KafkaDotNet.API.csproj|solutionrelative:kafkadotnet.api\\datainferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B78CDA1-1E68-4C6E-9C88-4A739ADE18E6}|KafkaDotNet.API\\KafkaDotNet.API.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B78CDA1-1E68-4C6E-9C88-4A739ADE18E6}|KafkaDotNet.API\\KafkaDotNet.API.csproj|solutionrelative:kafkadotnet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92454225-D037-4F20-9B5B-0B0B9F3C5DCC}|KafkaDotNet.Consumer\\KafkaDotNet.Consumer.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.consumer\\eventconsumerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92454225-D037-4F20-9B5B-0B0B9F3C5DCC}|KafkaDotNet.Consumer\\KafkaDotNet.Consumer.csproj|solutionrelative:kafkadotnet.consumer\\eventconsumerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4BAD59-74FB-464F-A734-2EF68E696562}|KafkaDotNet.ProducerApi\\KafkaDotNet.ProducerApi.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.producerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4BAD59-74FB-464F-A734-2EF68E696562}|KafkaDotNet.ProducerApi\\KafkaDotNet.ProducerApi.csproj|solutionrelative:kafkadotnet.producerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4BAD59-74FB-464F-A734-2EF68E696562}|KafkaDotNet.ProducerApi\\KafkaDotNet.ProducerApi.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.producerapi\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4BAD59-74FB-464F-A734-2EF68E696562}|KafkaDotNet.ProducerApi\\KafkaDotNet.ProducerApi.csproj|solutionrelative:kafkadotnet.producerapi\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92454225-D037-4F20-9B5B-0B0B9F3C5DCC}|KafkaDotNet.Consumer\\KafkaDotNet.Consumer.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92454225-D037-4F20-9B5B-0B0B9F3C5DCC}|KafkaDotNet.Consumer\\KafkaDotNet.Consumer.csproj|solutionrelative:kafkadotnet.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B78CDA1-1E68-4C6E-9C88-4A739ADE18E6}|KafkaDotNet.API\\KafkaDotNet.API.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.api\\kafkadotnet.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7B78CDA1-1E68-4C6E-9C88-4A739ADE18E6}|KafkaDotNet.API\\KafkaDotNet.API.csproj|solutionrelative:kafkadotnet.api\\kafkadotnet.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92454225-D037-4F20-9B5B-0B0B9F3C5DCC}|KafkaDotNet.Consumer\\KafkaDotNet.Consumer.csproj|c:\\users\\gustavo\\documents\\projetos\\projetokafka\\kafkadotnet\\kafkadotnet.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92454225-D037-4F20-9B5B-0B0B9F3C5DCC}|KafkaDotNet.Consumer\\KafkaDotNet.Consumer.csproj|solutionrelative:kafkadotnet.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.ProducerApi\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaDotNet.ProducerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.ProducerApi\\Program.cs",
+              "RelativeToolTip": "KafkaDotNet.ProducerApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:15:54.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaDotNet.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.Consumer\\Program.cs",
+              "RelativeToolTip": "KafkaDotNet.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:15:51.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaDotNet.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.API\\KafkaDotNet.API.csproj",
+              "RelativeDocumentMoniker": "KafkaDotNet.API\\KafkaDotNet.API.csproj",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.API\\KafkaDotNet.API.csproj",
+              "RelativeToolTip": "KafkaDotNet.API\\KafkaDotNet.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T18:15:44.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.API\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaDotNet.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.API\\Program.cs",
+              "RelativeToolTip": "KafkaDotNet.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:15:44.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataInferenceService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.API\\DataInferenceService.cs",
+              "RelativeDocumentMoniker": "KafkaDotNet.API\\DataInferenceService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.API\\DataInferenceService.cs",
+              "RelativeToolTip": "KafkaDotNet.API\\DataInferenceService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:15:43.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.ProducerApi\\ProducerService.cs",
+              "RelativeDocumentMoniker": "KafkaDotNet.ProducerApi\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.ProducerApi\\ProducerService.cs",
+              "RelativeToolTip": "KafkaDotNet.ProducerApi\\ProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:46:27.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventConsumerJob.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.Consumer\\EventConsumerJob.cs",
+              "RelativeDocumentMoniker": "KafkaDotNet.Consumer\\EventConsumerJob.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.Consumer\\EventConsumerJob.cs",
+              "RelativeToolTip": "KafkaDotNet.Consumer\\EventConsumerJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:44:54.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.Consumer\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaDotNet.Consumer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Projetos\\ProjetoKAFKA\\KafkaDotNet\\KafkaDotNet.Consumer\\appsettings.json",
+              "RelativeToolTip": "KafkaDotNet.Consumer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T16:41:50.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

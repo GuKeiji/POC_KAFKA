@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KafkaDotNet.ProducerApi.props" />
+</Project>
